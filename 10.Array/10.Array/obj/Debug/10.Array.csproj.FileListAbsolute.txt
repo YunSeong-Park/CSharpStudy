@@ -1,0 +1,6 @@
+C:\pg\cs\this is c#\10.Array\10.Array\bin\Debug\10.Array.exe.config
+C:\pg\cs\this is c#\10.Array\10.Array\bin\Debug\10.Array.exe
+C:\pg\cs\this is c#\10.Array\10.Array\bin\Debug\10.Array.pdb
+C:\pg\cs\this is c#\10.Array\10.Array\obj\Debug\10.Array.csproj.CoreCompileInputs.cache
+C:\pg\cs\this is c#\10.Array\10.Array\obj\Debug\10.Array.exe
+C:\pg\cs\this is c#\10.Array\10.Array\obj\Debug\10.Array.pdb

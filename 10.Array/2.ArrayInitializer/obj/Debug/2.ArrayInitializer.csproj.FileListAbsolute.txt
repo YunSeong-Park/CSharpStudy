@@ -1,0 +1,6 @@
+C:\pg\cs\this is c#\10.Array\2.ArrayInitializer\bin\Debug\2.ArrayInitializer.exe.config
+C:\pg\cs\this is c#\10.Array\2.ArrayInitializer\bin\Debug\2.ArrayInitializer.exe
+C:\pg\cs\this is c#\10.Array\2.ArrayInitializer\bin\Debug\2.ArrayInitializer.pdb
+C:\pg\cs\this is c#\10.Array\2.ArrayInitializer\obj\Debug\2.ArrayInitializer.csproj.CoreCompileInputs.cache
+C:\pg\cs\this is c#\10.Array\2.ArrayInitializer\obj\Debug\2.ArrayInitializer.exe
+C:\pg\cs\this is c#\10.Array\2.ArrayInitializer\obj\Debug\2.ArrayInitializer.pdb
