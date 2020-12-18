@@ -1,0 +1,6 @@
+C:\pg\cs\this is c#\CSharpStudy\10.Array\2DArray\bin\Debug\2DArray.exe.config
+C:\pg\cs\this is c#\CSharpStudy\10.Array\2DArray\bin\Debug\2DArray.exe
+C:\pg\cs\this is c#\CSharpStudy\10.Array\2DArray\bin\Debug\2DArray.pdb
+C:\pg\cs\this is c#\CSharpStudy\10.Array\2DArray\obj\Debug\4.2DArray.csproj.CoreCompileInputs.cache
+C:\pg\cs\this is c#\CSharpStudy\10.Array\2DArray\obj\Debug\2DArray.exe
+C:\pg\cs\this is c#\CSharpStudy\10.Array\2DArray\obj\Debug\2DArray.pdb
