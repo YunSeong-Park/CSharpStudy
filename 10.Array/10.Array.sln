@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.collection_Queue", "7.col
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.CollectionStack", "7.CollectionStack\7.CollectionStack.csproj", "{8B6370BC-6D68-4F96-8C7C-1902EF838BD4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.CollectionsHashtable", "7.CollectionsHashtable\7.CollectionsHashtable.csproj", "{13243245-47E5-48FB-A44D-1598B8FDCB99}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{8B6370BC-6D68-4F96-8C7C-1902EF838BD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B6370BC-6D68-4F96-8C7C-1902EF838BD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B6370BC-6D68-4F96-8C7C-1902EF838BD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13243245-47E5-48FB-A44D-1598B8FDCB99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13243245-47E5-48FB-A44D-1598B8FDCB99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13243245-47E5-48FB-A44D-1598B8FDCB99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13243245-47E5-48FB-A44D-1598B8FDCB99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

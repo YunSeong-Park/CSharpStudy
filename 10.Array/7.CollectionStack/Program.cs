@@ -21,7 +21,7 @@ namespace _7.CollectionStack
             while (stack.Count > 0)
                 Console.WriteLine(stack.Pop());
 
-
+           
         }
     }
 }
