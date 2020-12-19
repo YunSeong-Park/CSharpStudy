@@ -17,13 +17,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.multiDArray", "multiDArra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.JaggedArray", "JaggedArray\6.JaggedArray.csproj", "{B1397F85-186C-48F0-B79C-B9C48AAC3939}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.collectionArrayList", "7.collection\7.collectionArrayList.csproj", "{3DBC35CA-798A-49B3-A2C9-F2AF4866D630}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.collection_ArrayList", "7.collection\7.collection_ArrayList.csproj", "{3DBC35CA-798A-49B3-A2C9-F2AF4866D630}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.collection_Queue", "7.collection_Queue\7.collection_Queue.csproj", "{7DCF3E04-F914-489C-857F-9C66D50AFFC5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.CollectionStack", "7.CollectionStack\7.CollectionStack.csproj", "{8B6370BC-6D68-4F96-8C7C-1902EF838BD4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.Collection_Stack", "7.CollectionStack\7.Collection_Stack.csproj", "{8B6370BC-6D68-4F96-8C7C-1902EF838BD4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.CollectionsHashtable", "7.CollectionsHashtable\7.CollectionsHashtable.csproj", "{13243245-47E5-48FB-A44D-1598B8FDCB99}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.Collections_Hashtable", "7.CollectionsHashtable\7.Collections_Hashtable.csproj", "{13243245-47E5-48FB-A44D-1598B8FDCB99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.Collections_Initiate", "7.Collections_Initiate\7.Collections_Initiate.csproj", "{28F96DC0-CA9D-4105-A30E-CA81962FE878}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{13243245-47E5-48FB-A44D-1598B8FDCB99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13243245-47E5-48FB-A44D-1598B8FDCB99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13243245-47E5-48FB-A44D-1598B8FDCB99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28F96DC0-CA9D-4105-A30E-CA81962FE878}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28F96DC0-CA9D-4105-A30E-CA81962FE878}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28F96DC0-CA9D-4105-A30E-CA81962FE878}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28F96DC0-CA9D-4105-A30E-CA81962FE878}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
