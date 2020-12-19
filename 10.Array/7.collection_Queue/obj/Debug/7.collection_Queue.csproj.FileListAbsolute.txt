@@ -1,0 +1,6 @@
+C:\pg\cs\this is c#\CSharpStudy\10.Array\7.collection_Queue\bin\Debug\7.collection_Queue.exe.config
+C:\pg\cs\this is c#\CSharpStudy\10.Array\7.collection_Queue\bin\Debug\7.collection_Queue.exe
+C:\pg\cs\this is c#\CSharpStudy\10.Array\7.collection_Queue\bin\Debug\7.collection_Queue.pdb
+C:\pg\cs\this is c#\CSharpStudy\10.Array\7.collection_Queue\obj\Debug\7.collection_Queue.csproj.CoreCompileInputs.cache
+C:\pg\cs\this is c#\CSharpStudy\10.Array\7.collection_Queue\obj\Debug\7.collection_Queue.exe
+C:\pg\cs\this is c#\CSharpStudy\10.Array\7.collection_Queue\obj\Debug\7.collection_Queue.pdb
