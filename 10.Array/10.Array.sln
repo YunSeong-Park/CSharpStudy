@@ -25,7 +25,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.Collection_Stack", "7.Col
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.Collections_Hashtable", "7.CollectionsHashtable\7.Collections_Hashtable.csproj", "{13243245-47E5-48FB-A44D-1598B8FDCB99}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.Collections_Initiate", "7.Collections_Initiate\7.Collections_Initiate.csproj", "{28F96DC0-CA9D-4105-A30E-CA81962FE878}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.Collections_Initiate", "7.Collections_Initiate\8.Collections_Initiate.csproj", "{28F96DC0-CA9D-4105-A30E-CA81962FE878}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.Collections_Initiate2", "8.Collections_Initiate2\8.Collections_Initiate2.csproj", "{C64ED2D6-C1EC-4F3A-A7AA-C68A08F82D82}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{28F96DC0-CA9D-4105-A30E-CA81962FE878}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28F96DC0-CA9D-4105-A30E-CA81962FE878}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28F96DC0-CA9D-4105-A30E-CA81962FE878}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C64ED2D6-C1EC-4F3A-A7AA-C68A08F82D82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C64ED2D6-C1EC-4F3A-A7AA-C68A08F82D82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C64ED2D6-C1EC-4F3A-A7AA-C68A08F82D82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C64ED2D6-C1EC-4F3A-A7AA-C68A08F82D82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
