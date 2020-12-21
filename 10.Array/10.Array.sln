@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.CollectionsIndexer", "9.C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.foreachYield", "10.foreachYield\10.foreachYield.csproj", "{1F078366-1896-448D-88A7-36CE639508F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.IEnumerater", "11.IEnumerater\11.IEnumerater.csproj", "{B9D995FB-E107-4CEF-867A-C3C93F078AD8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{1F078366-1896-448D-88A7-36CE639508F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F078366-1896-448D-88A7-36CE639508F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F078366-1896-448D-88A7-36CE639508F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9D995FB-E107-4CEF-867A-C3C93F078AD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9D995FB-E107-4CEF-867A-C3C93F078AD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9D995FB-E107-4CEF-867A-C3C93F078AD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9D995FB-E107-4CEF-867A-C3C93F078AD8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,6 @@
+C:\pg\cs\this is c#\CSharpStudy\10.Array\11.IEnumerater\bin\Debug\11.IEnumerater.exe.config
+C:\pg\cs\this is c#\CSharpStudy\10.Array\11.IEnumerater\bin\Debug\11.IEnumerater.exe
+C:\pg\cs\this is c#\CSharpStudy\10.Array\11.IEnumerater\bin\Debug\11.IEnumerater.pdb
+C:\pg\cs\this is c#\CSharpStudy\10.Array\11.IEnumerater\obj\Debug\11.IEnumerater.csproj.CoreCompileInputs.cache
+C:\pg\cs\this is c#\CSharpStudy\10.Array\11.IEnumerater\obj\Debug\11.IEnumerater.exe
+C:\pg\cs\this is c#\CSharpStudy\10.Array\11.IEnumerater\obj\Debug\11.IEnumerater.pdb
