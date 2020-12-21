@@ -1,0 +1,7 @@
+C:\pg\cs\this is c#\CSharpStudy\10.Array\7.Collections_Initiate\bin\Debug\7.Collections_Initiate.exe.config
+C:\pg\cs\this is c#\CSharpStudy\10.Array\7.Collections_Initiate\bin\Debug\7.Collections_Initiate.exe
+C:\pg\cs\this is c#\CSharpStudy\10.Array\7.Collections_Initiate\bin\Debug\7.Collections_Initiate.pdb
+C:\pg\cs\this is c#\CSharpStudy\10.Array\7.Collections_Initiate\obj\Debug\8.Collections_Initiate.csprojAssemblyReference.cache
+C:\pg\cs\this is c#\CSharpStudy\10.Array\7.Collections_Initiate\obj\Debug\8.Collections_Initiate.csproj.CoreCompileInputs.cache
+C:\pg\cs\this is c#\CSharpStudy\10.Array\7.Collections_Initiate\obj\Debug\7.Collections_Initiate.exe
+C:\pg\cs\this is c#\CSharpStudy\10.Array\7.Collections_Initiate\obj\Debug\7.Collections_Initiate.pdb

@@ -1,0 +1,7 @@
+C:\pg\cs\this is c#\CSharpStudy\10.Array\9.CollectionsIndexer\bin\Debug\9.CollectionsIndexer.exe.config
+C:\pg\cs\this is c#\CSharpStudy\10.Array\9.CollectionsIndexer\bin\Debug\9.CollectionsIndexer.exe
+C:\pg\cs\this is c#\CSharpStudy\10.Array\9.CollectionsIndexer\bin\Debug\9.CollectionsIndexer.pdb
+C:\pg\cs\this is c#\CSharpStudy\10.Array\9.CollectionsIndexer\obj\Debug\9.CollectionsIndexer.csprojAssemblyReference.cache
+C:\pg\cs\this is c#\CSharpStudy\10.Array\9.CollectionsIndexer\obj\Debug\9.CollectionsIndexer.csproj.CoreCompileInputs.cache
+C:\pg\cs\this is c#\CSharpStudy\10.Array\9.CollectionsIndexer\obj\Debug\9.CollectionsIndexer.exe
+C:\pg\cs\this is c#\CSharpStudy\10.Array\9.CollectionsIndexer\obj\Debug\9.CollectionsIndexer.pdb
