@@ -1,0 +1,7 @@
+C:\pg\cs\this is c#\CSharpStudy\10.Array\10.foreachYield\bin\Debug\10.foreachYield.exe.config
+C:\pg\cs\this is c#\CSharpStudy\10.Array\10.foreachYield\bin\Debug\10.foreachYield.exe
+C:\pg\cs\this is c#\CSharpStudy\10.Array\10.foreachYield\bin\Debug\10.foreachYield.pdb
+C:\pg\cs\this is c#\CSharpStudy\10.Array\10.foreachYield\obj\Debug\10.foreachYield.csprojAssemblyReference.cache
+C:\pg\cs\this is c#\CSharpStudy\10.Array\10.foreachYield\obj\Debug\10.foreachYield.csproj.CoreCompileInputs.cache
+C:\pg\cs\this is c#\CSharpStudy\10.Array\10.foreachYield\obj\Debug\10.foreachYield.exe
+C:\pg\cs\this is c#\CSharpStudy\10.Array\10.foreachYield\obj\Debug\10.foreachYield.pdb
