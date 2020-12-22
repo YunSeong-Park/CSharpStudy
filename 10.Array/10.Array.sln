@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.foreachYield", "10.forea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.IEnumerater", "11.IEnumerater\11.IEnumerater.csproj", "{B9D995FB-E107-4CEF-867A-C3C93F078AD8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.matrix multiple", "12.matrix multiple\12.matrix multiple.csproj", "{6A78640E-5724-4F4A-9A64-D4DA07FF8839}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{B9D995FB-E107-4CEF-867A-C3C93F078AD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9D995FB-E107-4CEF-867A-C3C93F078AD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9D995FB-E107-4CEF-867A-C3C93F078AD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A78640E-5724-4F4A-9A64-D4DA07FF8839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A78640E-5724-4F4A-9A64-D4DA07FF8839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A78640E-5724-4F4A-9A64-D4DA07FF8839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A78640E-5724-4F4A-9A64-D4DA07FF8839}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

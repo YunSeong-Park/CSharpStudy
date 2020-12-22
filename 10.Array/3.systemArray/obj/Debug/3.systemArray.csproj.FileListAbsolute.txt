@@ -1,0 +1,7 @@
+C:\pg\cs\this is c#\CSharpStudy\10.Array\3.systemArray\bin\Debug\3.systemArray.exe.config
+C:\pg\cs\this is c#\CSharpStudy\10.Array\3.systemArray\bin\Debug\3.systemArray.exe
+C:\pg\cs\this is c#\CSharpStudy\10.Array\3.systemArray\bin\Debug\3.systemArray.pdb
+C:\pg\cs\this is c#\CSharpStudy\10.Array\3.systemArray\obj\Debug\3.systemArray.csprojAssemblyReference.cache
+C:\pg\cs\this is c#\CSharpStudy\10.Array\3.systemArray\obj\Debug\3.systemArray.csproj.CoreCompileInputs.cache
+C:\pg\cs\this is c#\CSharpStudy\10.Array\3.systemArray\obj\Debug\3.systemArray.exe
+C:\pg\cs\this is c#\CSharpStudy\10.Array\3.systemArray\obj\Debug\3.systemArray.pdb

@@ -1,0 +1,7 @@
+C:\pg\cs\this is c#\CSharpStudy\10.Array\12.matrix multiple\bin\Debug\12.matrix multiple.exe.config
+C:\pg\cs\this is c#\CSharpStudy\10.Array\12.matrix multiple\bin\Debug\12.matrix multiple.exe
+C:\pg\cs\this is c#\CSharpStudy\10.Array\12.matrix multiple\bin\Debug\12.matrix multiple.pdb
+C:\pg\cs\this is c#\CSharpStudy\10.Array\12.matrix multiple\obj\Debug\12.matrix multiple.csproj.CoreCompileInputs.cache
+C:\pg\cs\this is c#\CSharpStudy\10.Array\12.matrix multiple\obj\Debug\12.matrix multiple.exe
+C:\pg\cs\this is c#\CSharpStudy\10.Array\12.matrix multiple\obj\Debug\12.matrix multiple.pdb
+C:\pg\cs\this is c#\CSharpStudy\10.Array\12.matrix multiple\obj\Debug\12.matrix multiple.csprojAssemblyReference.cache

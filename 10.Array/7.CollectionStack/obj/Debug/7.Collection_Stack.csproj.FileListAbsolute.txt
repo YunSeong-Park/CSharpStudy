@@ -1,0 +1,7 @@
+C:\pg\cs\this is c#\CSharpStudy\10.Array\7.CollectionStack\bin\Debug\7.CollectionStack.exe.config
+C:\pg\cs\this is c#\CSharpStudy\10.Array\7.CollectionStack\bin\Debug\7.CollectionStack.exe
+C:\pg\cs\this is c#\CSharpStudy\10.Array\7.CollectionStack\bin\Debug\7.CollectionStack.pdb
+C:\pg\cs\this is c#\CSharpStudy\10.Array\7.CollectionStack\obj\Debug\7.Collection_Stack.csprojAssemblyReference.cache
+C:\pg\cs\this is c#\CSharpStudy\10.Array\7.CollectionStack\obj\Debug\7.Collection_Stack.csproj.CoreCompileInputs.cache
+C:\pg\cs\this is c#\CSharpStudy\10.Array\7.CollectionStack\obj\Debug\7.CollectionStack.exe
+C:\pg\cs\this is c#\CSharpStudy\10.Array\7.CollectionStack\obj\Debug\7.CollectionStack.pdb
