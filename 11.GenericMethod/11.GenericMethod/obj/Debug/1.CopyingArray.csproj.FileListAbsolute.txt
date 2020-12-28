@@ -1,0 +1,7 @@
+C:\Users\qkrdb\source\repos\11.GenericMethod\11.GenericMethod\bin\Debug\11.GenericMethod.exe.config
+C:\Users\qkrdb\source\repos\11.GenericMethod\11.GenericMethod\bin\Debug\11.GenericMethod.exe
+C:\Users\qkrdb\source\repos\11.GenericMethod\11.GenericMethod\bin\Debug\11.GenericMethod.pdb
+C:\Users\qkrdb\source\repos\11.GenericMethod\11.GenericMethod\obj\Debug\1.CopyingArray.csprojAssemblyReference.cache
+C:\Users\qkrdb\source\repos\11.GenericMethod\11.GenericMethod\obj\Debug\1.CopyingArray.csproj.CoreCompileInputs.cache
+C:\Users\qkrdb\source\repos\11.GenericMethod\11.GenericMethod\obj\Debug\11.GenericMethod.exe
+C:\Users\qkrdb\source\repos\11.GenericMethod\11.GenericMethod\obj\Debug\11.GenericMethod.pdb
