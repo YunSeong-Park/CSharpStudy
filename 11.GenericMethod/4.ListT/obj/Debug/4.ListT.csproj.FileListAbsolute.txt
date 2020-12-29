@@ -1,0 +1,7 @@
+C:\pg\cs\this is c#\CSharpStudy\11.GenericMethod\4.ListT\bin\Debug\4.ListT.exe.config
+C:\pg\cs\this is c#\CSharpStudy\11.GenericMethod\4.ListT\bin\Debug\4.ListT.exe
+C:\pg\cs\this is c#\CSharpStudy\11.GenericMethod\4.ListT\bin\Debug\4.ListT.pdb
+C:\pg\cs\this is c#\CSharpStudy\11.GenericMethod\4.ListT\obj\Debug\4.ListT.csprojAssemblyReference.cache
+C:\pg\cs\this is c#\CSharpStudy\11.GenericMethod\4.ListT\obj\Debug\4.ListT.csproj.CoreCompileInputs.cache
+C:\pg\cs\this is c#\CSharpStudy\11.GenericMethod\4.ListT\obj\Debug\4.ListT.exe
+C:\pg\cs\this is c#\CSharpStudy\11.GenericMethod\4.ListT\obj\Debug\4.ListT.pdb

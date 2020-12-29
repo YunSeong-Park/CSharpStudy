@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.GenericClass", "2.Generic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.ConstraintsOnTypeParameters", "3.ConstraintsOnTypeParameters\3.ConstraintsOnTypeParameters.csproj", "{BF53540E-B8D6-4203-9892-6045C77FDA16}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.ListT", "4.ListT\4.ListT.csproj", "{B74C9420-F6D1-41B1-9260-0A02DE6E8528}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{BF53540E-B8D6-4203-9892-6045C77FDA16}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF53540E-B8D6-4203-9892-6045C77FDA16}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF53540E-B8D6-4203-9892-6045C77FDA16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B74C9420-F6D1-41B1-9260-0A02DE6E8528}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B74C9420-F6D1-41B1-9260-0A02DE6E8528}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B74C9420-F6D1-41B1-9260-0A02DE6E8528}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B74C9420-F6D1-41B1-9260-0A02DE6E8528}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
