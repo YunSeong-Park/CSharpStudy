@@ -1,0 +1,7 @@
+C:\pg\cs\this is c#\CSharpStudy\11.GenericMethod\2.GenericClass\bin\Debug\2.GenericClass.exe.config
+C:\pg\cs\this is c#\CSharpStudy\11.GenericMethod\2.GenericClass\bin\Debug\2.GenericClass.exe
+C:\pg\cs\this is c#\CSharpStudy\11.GenericMethod\2.GenericClass\bin\Debug\2.GenericClass.pdb
+C:\pg\cs\this is c#\CSharpStudy\11.GenericMethod\2.GenericClass\obj\Debug\2.GenericClass.csprojAssemblyReference.cache
+C:\pg\cs\this is c#\CSharpStudy\11.GenericMethod\2.GenericClass\obj\Debug\2.GenericClass.csproj.CoreCompileInputs.cache
+C:\pg\cs\this is c#\CSharpStudy\11.GenericMethod\2.GenericClass\obj\Debug\2.GenericClass.exe
+C:\pg\cs\this is c#\CSharpStudy\11.GenericMethod\2.GenericClass\obj\Debug\2.GenericClass.pdb
