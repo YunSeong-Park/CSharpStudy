@@ -1,0 +1,7 @@
+C:\pg\cs\this is c#\CSharpStudy\11.GenericMethod\3.ConstraintsOnTypeParameters\bin\Debug\3.ConstraintsOnTypeParameters.exe.config
+C:\pg\cs\this is c#\CSharpStudy\11.GenericMethod\3.ConstraintsOnTypeParameters\bin\Debug\3.ConstraintsOnTypeParameters.exe
+C:\pg\cs\this is c#\CSharpStudy\11.GenericMethod\3.ConstraintsOnTypeParameters\bin\Debug\3.ConstraintsOnTypeParameters.pdb
+C:\pg\cs\this is c#\CSharpStudy\11.GenericMethod\3.ConstraintsOnTypeParameters\obj\Debug\3.ConstraintsOnTypeParameters.csprojAssemblyReference.cache
+C:\pg\cs\this is c#\CSharpStudy\11.GenericMethod\3.ConstraintsOnTypeParameters\obj\Debug\3.ConstraintsOnTypeParameters.csproj.CoreCompileInputs.cache
+C:\pg\cs\this is c#\CSharpStudy\11.GenericMethod\3.ConstraintsOnTypeParameters\obj\Debug\3.ConstraintsOnTypeParameters.exe
+C:\pg\cs\this is c#\CSharpStudy\11.GenericMethod\3.ConstraintsOnTypeParameters\obj\Debug\3.ConstraintsOnTypeParameters.pdb
