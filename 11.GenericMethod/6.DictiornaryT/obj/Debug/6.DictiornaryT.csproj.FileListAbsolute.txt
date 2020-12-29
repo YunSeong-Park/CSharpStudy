@@ -1,0 +1,7 @@
+C:\pg\cs\this is c#\CSharpStudy\11.GenericMethod\6.DictiornaryT\bin\Debug\6.DictiornaryT.exe.config
+C:\pg\cs\this is c#\CSharpStudy\11.GenericMethod\6.DictiornaryT\bin\Debug\6.DictiornaryT.exe
+C:\pg\cs\this is c#\CSharpStudy\11.GenericMethod\6.DictiornaryT\bin\Debug\6.DictiornaryT.pdb
+C:\pg\cs\this is c#\CSharpStudy\11.GenericMethod\6.DictiornaryT\obj\Debug\6.DictiornaryT.csprojAssemblyReference.cache
+C:\pg\cs\this is c#\CSharpStudy\11.GenericMethod\6.DictiornaryT\obj\Debug\6.DictiornaryT.csproj.CoreCompileInputs.cache
+C:\pg\cs\this is c#\CSharpStudy\11.GenericMethod\6.DictiornaryT\obj\Debug\6.DictiornaryT.exe
+C:\pg\cs\this is c#\CSharpStudy\11.GenericMethod\6.DictiornaryT\obj\Debug\6.DictiornaryT.pdb

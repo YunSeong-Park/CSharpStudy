@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{587632E1-4504-4671-8025-881609D183CB}</ProjectGuid>
+    <ProjectGuid>{51DD2D5D-A428-447C-8A62-F8F16AAA5AAD}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_5.QueueT</RootNamespace>
-    <AssemblyName>5.QueueT</AssemblyName>
+    <RootNamespace>_6.DictiornaryT</RootNamespace>
+    <AssemblyName>6.DictiornaryT</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
