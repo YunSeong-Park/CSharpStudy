@@ -1,0 +1,7 @@
+C:\pg\cs\this is c#\CSharpStudy\11.GenericMethod\7.foreach\bin\Debug\_7.@foreach.exe.config
+C:\pg\cs\this is c#\CSharpStudy\11.GenericMethod\7.foreach\bin\Debug\_7.@foreach.exe
+C:\pg\cs\this is c#\CSharpStudy\11.GenericMethod\7.foreach\bin\Debug\_7.@foreach.pdb
+C:\pg\cs\this is c#\CSharpStudy\11.GenericMethod\7.foreach\obj\Debug\7.foreach.csprojAssemblyReference.cache
+C:\pg\cs\this is c#\CSharpStudy\11.GenericMethod\7.foreach\obj\Debug\7.foreach.csproj.CoreCompileInputs.cache
+C:\pg\cs\this is c#\CSharpStudy\11.GenericMethod\7.foreach\obj\Debug\_7.@foreach.exe
+C:\pg\cs\this is c#\CSharpStudy\11.GenericMethod\7.foreach\obj\Debug\_7.@foreach.pdb
