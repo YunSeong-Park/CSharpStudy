@@ -1,0 +1,7 @@
+C:\pg\cs\this is c#\CSharpStudy\12.KillingProgram\3.ThrowExpression\bin\Debug\3.ThrowExpression.exe.config
+C:\pg\cs\this is c#\CSharpStudy\12.KillingProgram\3.ThrowExpression\bin\Debug\3.ThrowExpression.exe
+C:\pg\cs\this is c#\CSharpStudy\12.KillingProgram\3.ThrowExpression\bin\Debug\3.ThrowExpression.pdb
+C:\pg\cs\this is c#\CSharpStudy\12.KillingProgram\3.ThrowExpression\obj\Debug\3.ThrowExpression.csprojAssemblyReference.cache
+C:\pg\cs\this is c#\CSharpStudy\12.KillingProgram\3.ThrowExpression\obj\Debug\3.ThrowExpression.csproj.CoreCompileInputs.cache
+C:\pg\cs\this is c#\CSharpStudy\12.KillingProgram\3.ThrowExpression\obj\Debug\3.ThrowExpression.exe
+C:\pg\cs\this is c#\CSharpStudy\12.KillingProgram\3.ThrowExpression\obj\Debug\3.ThrowExpression.pdb

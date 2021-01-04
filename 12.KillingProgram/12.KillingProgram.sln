@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.KillingProgram", "12.Kill
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.Throw", "2.Throw\2.Throw.csproj", "{4EB1A272-1BD6-4816-87D9-89B7C261E45A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.ThrowExpression", "3.ThrowExpression\3.ThrowExpression.csproj", "{9DDBBAFF-32FF-4E48-9379-1DD4F99EAE64}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{4EB1A272-1BD6-4816-87D9-89B7C261E45A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4EB1A272-1BD6-4816-87D9-89B7C261E45A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4EB1A272-1BD6-4816-87D9-89B7C261E45A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DDBBAFF-32FF-4E48-9379-1DD4F99EAE64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DDBBAFF-32FF-4E48-9379-1DD4F99EAE64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DDBBAFF-32FF-4E48-9379-1DD4F99EAE64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DDBBAFF-32FF-4E48-9379-1DD4F99EAE64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
