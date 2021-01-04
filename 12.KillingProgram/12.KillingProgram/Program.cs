@@ -25,7 +25,6 @@ namespace _12.KillingProgram
             // 종료 후 순차 실행
 
             Console.WriteLine("종료");    // try catch 문으로 실행 가능
-            
         }
     }
 }
