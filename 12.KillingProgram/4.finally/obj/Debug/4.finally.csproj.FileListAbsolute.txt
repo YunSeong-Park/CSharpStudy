@@ -1,0 +1,7 @@
+C:\pg\cs\this is c#\CSharpStudy\12.KillingProgram\4.finally\bin\Debug\_4.@finally.exe.config
+C:\pg\cs\this is c#\CSharpStudy\12.KillingProgram\4.finally\bin\Debug\_4.@finally.exe
+C:\pg\cs\this is c#\CSharpStudy\12.KillingProgram\4.finally\bin\Debug\_4.@finally.pdb
+C:\pg\cs\this is c#\CSharpStudy\12.KillingProgram\4.finally\obj\Debug\4.finally.csprojAssemblyReference.cache
+C:\pg\cs\this is c#\CSharpStudy\12.KillingProgram\4.finally\obj\Debug\4.finally.csproj.CoreCompileInputs.cache
+C:\pg\cs\this is c#\CSharpStudy\12.KillingProgram\4.finally\obj\Debug\_4.@finally.exe
+C:\pg\cs\this is c#\CSharpStudy\12.KillingProgram\4.finally\obj\Debug\_4.@finally.pdb
