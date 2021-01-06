@@ -1,0 +1,7 @@
+C:\pg\cs\this is c#\CSharpStudy\12.KillingProgram\5. MyException\bin\Debug\_5.MyException.exe.config
+C:\pg\cs\this is c#\CSharpStudy\12.KillingProgram\5. MyException\bin\Debug\_5.MyException.exe
+C:\pg\cs\this is c#\CSharpStudy\12.KillingProgram\5. MyException\bin\Debug\_5.MyException.pdb
+C:\pg\cs\this is c#\CSharpStudy\12.KillingProgram\5. MyException\obj\Debug\5. MyException.csprojAssemblyReference.cache
+C:\pg\cs\this is c#\CSharpStudy\12.KillingProgram\5. MyException\obj\Debug\5. MyException.csproj.CoreCompileInputs.cache
+C:\pg\cs\this is c#\CSharpStudy\12.KillingProgram\5. MyException\obj\Debug\_5.MyException.exe
+C:\pg\cs\this is c#\CSharpStudy\12.KillingProgram\5. MyException\obj\Debug\_5.MyException.pdb
