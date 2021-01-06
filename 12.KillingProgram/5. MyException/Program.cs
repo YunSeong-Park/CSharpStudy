@@ -8,8 +8,10 @@ namespace _5.MyException
 {
     class InvalidArgumentException : Exception
     {
+        public InvalidArgumentException()
+        {
+        }
 
-        
         public InvalidArgumentException(string message) : base(message) // System.Exception의 생성자에 message를 인풋
         {
         }

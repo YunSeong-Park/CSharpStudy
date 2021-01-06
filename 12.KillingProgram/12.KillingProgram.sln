@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.finally", "4.finally\4.fi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. MyException", "5. MyException\5. MyException.csproj", "{6A15563C-D913-46A4-9BF5-34C67C727E07}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. StackTrace", "6. StackTrace\6. StackTrace.csproj", "{9710BDAE-149A-4FE8-9C7C-62CECD9B9CB2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{6A15563C-D913-46A4-9BF5-34C67C727E07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A15563C-D913-46A4-9BF5-34C67C727E07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A15563C-D913-46A4-9BF5-34C67C727E07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9710BDAE-149A-4FE8-9C7C-62CECD9B9CB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9710BDAE-149A-4FE8-9C7C-62CECD9B9CB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9710BDAE-149A-4FE8-9C7C-62CECD9B9CB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9710BDAE-149A-4FE8-9C7C-62CECD9B9CB2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,7 @@
+C:\pg\cs\this is c#\CSharpStudy\12.KillingProgram\6. StackTrace\bin\Debug\_6.StackTrace.exe.config
+C:\pg\cs\this is c#\CSharpStudy\12.KillingProgram\6. StackTrace\bin\Debug\_6.StackTrace.exe
+C:\pg\cs\this is c#\CSharpStudy\12.KillingProgram\6. StackTrace\bin\Debug\_6.StackTrace.pdb
+C:\pg\cs\this is c#\CSharpStudy\12.KillingProgram\6. StackTrace\obj\Debug\6. StackTrace.csprojAssemblyReference.cache
+C:\pg\cs\this is c#\CSharpStudy\12.KillingProgram\6. StackTrace\obj\Debug\6. StackTrace.csproj.CoreCompileInputs.cache
+C:\pg\cs\this is c#\CSharpStudy\12.KillingProgram\6. StackTrace\obj\Debug\_6.StackTrace.exe
+C:\pg\cs\this is c#\CSharpStudy\12.KillingProgram\6. StackTrace\obj\Debug\_6.StackTrace.pdb
