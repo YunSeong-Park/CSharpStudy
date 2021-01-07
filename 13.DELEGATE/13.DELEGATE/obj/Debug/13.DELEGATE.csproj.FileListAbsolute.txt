@@ -1,0 +1,7 @@
+C:\Users\qkrdb\source\repos\13.DELEGATE\13.DELEGATE\bin\Debug\13.DELEGATE.exe.config
+C:\Users\qkrdb\source\repos\13.DELEGATE\13.DELEGATE\bin\Debug\13.DELEGATE.exe
+C:\Users\qkrdb\source\repos\13.DELEGATE\13.DELEGATE\bin\Debug\13.DELEGATE.pdb
+C:\Users\qkrdb\source\repos\13.DELEGATE\13.DELEGATE\obj\Debug\13.DELEGATE.csprojAssemblyReference.cache
+C:\Users\qkrdb\source\repos\13.DELEGATE\13.DELEGATE\obj\Debug\13.DELEGATE.csproj.CoreCompileInputs.cache
+C:\Users\qkrdb\source\repos\13.DELEGATE\13.DELEGATE\obj\Debug\13.DELEGATE.exe
+C:\Users\qkrdb\source\repos\13.DELEGATE\13.DELEGATE\obj\Debug\13.DELEGATE.pdb
